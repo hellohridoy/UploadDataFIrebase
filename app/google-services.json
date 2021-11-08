@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246307845261",
+    "project_id": "uploaddatafirebase-59ec1",
+    "storage_bucket": "uploaddatafirebase-59ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246307845261:android:5858ca730ff94fbad09ec4",
+        "android_client_info": {
+          "package_name": "com.example.uploaddatafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246307845261-3p6oppq57p9punidodv0ous3gck3n59f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLGiOrhYEcF1eNjyK7so_IFCFS-Ta_Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246307845261-3p6oppq57p9punidodv0ous3gck3n59f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
